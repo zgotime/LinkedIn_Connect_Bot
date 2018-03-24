@@ -24,7 +24,7 @@ def inicio():
 
 # replace URL in iMacro file
 def replaceCompany(version, company):
-    filepath = r"C:\Users\xczab\Documents\iMacros\Macros\MacroLinkedinV1.iim"
+    filepath = r"C:\Users\username\Documents\iMacros\Macros\MacroLinkedinV1.iim"
 
     with open(filepath) as f:
         lines = f.readlines()
