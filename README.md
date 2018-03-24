@@ -1,6 +1,10 @@
 # LinkedIn_Connect_Bot
+This will only work with Windows PC
+
 Automatically send out connect requests to people on the list
+
 Search people with "Company Name" and "Title"
+
 In the abc.csv file, company name is needed
 
 Follow the steps:
