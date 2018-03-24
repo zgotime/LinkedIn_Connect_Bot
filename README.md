@@ -1,4 +1,8 @@
 # LinkedIn_Connect_Bot
+Automatically send out connect requests to people on the list
+Search people with "Company Name" and "Title"
+In the abc.csv file, company name is needed
+
 Follow the steps:
 1. install python 3
 2. install python lib: numpy, pandas
